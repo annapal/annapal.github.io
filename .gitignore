@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+
+# CV LaTeX source — kept local only; we publish the compiled cv.pdf instead.
+# (Delete this line if you ever want to version-control the source on GitHub.)
+anna_cv/
